@@ -10,4 +10,3 @@ render(
 	</BrowserRouter>,
 	rootElement
 );
-// Test
